@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+amit:
+  name: ZeRealOne
+  title: The second developer of the package and docs developer
+  url: https://github.com/zerealone
+  image_url: https://avatars.githubusercontent.com/u/105295664?v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+hyper:
+  name: Hyper
+  title: The main developer of the package
+  url: https://github.com/xHyperJS
+  image_url: https://avatars.githubusercontent.com/u/84060730?v=4
