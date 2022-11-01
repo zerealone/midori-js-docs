@@ -58,10 +58,6 @@ const config = {
     ({
       navbar: {
         title: 'Midori.js',
-        logo: {
-          alt: 'Midori.js logo',
-          src: 'img/logo.svg',
-        },
         items: [
           {
             type: 'doc',
