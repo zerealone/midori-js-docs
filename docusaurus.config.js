@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Midori.js',
   tagline: 'The most powerful string package to create a discord bot with custom features having aoi.js features!',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://midorijs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
